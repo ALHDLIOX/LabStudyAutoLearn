@@ -1,12 +1,14 @@
 // ==UserScript==
 // @name         Lab Study AutoLearn
 // @namespace    ustc-lab-study
-// @version      0.2.0
+// @version      0.2.1
 // @description  Auto stay-and-switch with a floating panel showing live progress.
 // @author       alhdliox
 // @match        https://sysaq.ustc.edu.cn/lab-study-front/*
 // @run-at       document-idle
 // @grant        none
+// @downloadURL  https://raw.githubusercontent.com/ALHDLIOX/LabStudyAutoLearn/main/ustc-lab-study-autolearn.user.js
+// @updateURL    https://raw.githubusercontent.com/ALHDLIOX/LabStudyAutoLearn/main/ustc-lab-study-autolearn.user.js
 // ==/UserScript==
 
 (function () {
